@@ -1,7 +1,7 @@
 # vertoanalytics
 Verto assignment stage (2nd stage) 
 
-# Excercise
+### Excercise
 Use a pre-defined location (you can set that to whatever value you like) to get 50 English language
 Wikipedia
 articles nearest to that location. Find the most similar image titles used in those articles.
@@ -12,3 +12,5 @@ Requirements:
 image titles.
 - Think this as a something that will be deployed to production. Pay attention to readability,
 modularity and maintainability
+
+### Daa
