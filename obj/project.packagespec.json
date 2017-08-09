@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\yhatakka\\RiderProjects\\VertoExcercise\\VertoExcercise.csproj",
+    "projectUniqueName": "C:\\Users\\yrjoh\\RiderProjects\\vertoanalytics\\VertoExcercise.csproj",
     "projectName": "VertoExcercise",
-    "projectPath": "C:\\Users\\yhatakka\\RiderProjects\\VertoExcercise\\VertoExcercise.csproj",
-    "outputPath": "C:\\Users\\yhatakka\\RiderProjects\\VertoExcercise\\obj\\",
+    "projectPath": "C:\\Users\\yrjoh\\RiderProjects\\vertoanalytics\\VertoExcercise.csproj",
+    "outputPath": "C:\\Users\\yrjoh\\RiderProjects\\vertoanalytics\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp1.1"

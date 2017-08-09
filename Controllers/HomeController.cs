@@ -10,7 +10,13 @@ namespace VertoExcercise.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            ViewData["Message"] = "";
+            var client = new WebClients();
+            var firstQuery = client.GetWikiGeoSearchAsync();
+            var wikiGeoSearchRoot = firstQuery.Result;
+            var wikiGeoSearchQuery = wikiGeoSearchRoot.query;
+            var wikiGeoSearches = wikiGeoSearchQuery.Geosearch;
+            return View(wikiGeoSearches);
         }
 
         public IActionResult About()
